@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+html,body {
+    height: 100%;
+}
+
+.time{
+    font-size: xx-large;
+}
+
+.date{
+    font-size: larger;
+}
+
+.status{
+    font-size: x-large;
+}
+
+.tile-text{
+    font-size: xx-large;
+}

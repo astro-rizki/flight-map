@@ -3,12 +3,20 @@ html,body {
     height: 100%;
 }
 
+input:focus{
+    outline: none;
+}
+
 .time{
     font-size: xx-large;
+    background: none;
+    border: none;
 }
 
 .date{
     font-size: larger;
+    background: none;
+    border: none;
 }
 
 .status{
